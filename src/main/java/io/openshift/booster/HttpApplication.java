@@ -9,6 +9,8 @@ import io.vertx.ext.web.handler.StaticHandler;
 
 import static io.vertx.core.http.HttpHeaders.CONTENT_TYPE;
 
+// This is a test
+
 public class HttpApplication extends AbstractVerticle {
 
   static final String template = "Hello, %s!";
